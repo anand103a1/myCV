@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    margin: 0 auto 0 auto;
+          /* top right bottom left setting location*/
+    font-family: 'Sacramento', cursive; 
+    color: rgb(3, 92, 92);
+}
+p {
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+    color: rgb(3, 69, 107);
+    font-family: 'Calistoga', cursive;
+}
+.dp {
+    width: 15%;
+}
+.intro {
+    float: left;
+}
+.full {
+    text-decoration: underline;
+}
+.mount {
+    opacity: 80%;
+}
+
+/* GOOGLE FONT 
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;*/
+
+.footer {
+    font-family:'Times New Roman', Times, serif; 
+}
